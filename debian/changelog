@@ -1,0 +1,5 @@
+aiorwlock (0.6.0-1) experimental; urgency=medium
+
+  * Initial release (Closes: #931200)
+
+ -- William Grzybowski <william@grzy.org>  Thu, 27 Jun 2019 22:25:32 -0300

@@ -1,0 +1,4 @@
+version=4
+opts="filenamemangle=s%(?:.*?)?v?(\d[\d.]*)\.tar\.gz%aiorwlock-$1.tar.gz%" \
+   https://github.com/aio-libs/aiorwlock/tags \
+   (?:.*?/)?v?(\d[\d.]*)\.tar\.gz debian uupdate
