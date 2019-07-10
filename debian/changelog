@@ -1,3 +1,12 @@
+aiorwlock (0.6.0-2) unstable; urgency=medium
+
+  * Upload to unstable.
+  * debian/control:
+    - Update Standards-Version to 4.4.0.
+    - Update X-Python3-Version to >= 3.6.
+
+ -- William Grzybowski <william@grzy.org>  Wed, 10 Jul 2019 10:24:28 -0300
+
 aiorwlock (0.6.0-1) experimental; urgency=medium
 
   * Initial release (Closes: #931200)
