@@ -1,0 +1,4 @@
+[run]
+branch = True
+source = aiorwlock
+omit = site-packages, .tox
