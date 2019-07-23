@@ -1,7 +1,8 @@
 Source: aiorwlock
 Section: python
 Priority: optional
-Maintainer: William Grzybowski <william@grzy.org>
+Maintainer: Debian Python Modules Team <team+python-modules@tracker.debian.org>
+Uploaders: William Grzybowski <william@grzy.org>
 Build-Depends: debhelper-compat (= 12),
                dh-python,
                python3-all,
