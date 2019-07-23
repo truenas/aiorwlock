@@ -14,8 +14,8 @@ Standards-Version: 4.4.0
 Homepage: https://github.com/aio-libs/aiorwlock
 X-Python3-Version: >= 3.6
 Testsuite: autopkgtest-pkg-python
-Vcs-Browser: https://salsa.debian.org/wg-guest/aiorwlock
-Vcs-Git: https://salsa.debian.org/wg-guest/aiorwlock.git
+Vcs-Browser: https://salsa.debian.org/python-team/modules/aiorwlock
+Vcs-Git: https://salsa.debian.org/python-team/modules/aiorwlock.git
 
 Package: python3-aiorwlock
 Architecture: all
