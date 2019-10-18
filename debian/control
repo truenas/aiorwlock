@@ -10,7 +10,7 @@ Build-Depends: debhelper-compat (= 12),
 # for tests:
                python3-pytest,
                python3-uvloop
-Standards-Version: 4.4.0
+Standards-Version: 4.4.1
 Homepage: https://github.com/aio-libs/aiorwlock
 X-Python3-Version: >= 3.6
 Testsuite: autopkgtest-pkg-python

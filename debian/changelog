@@ -1,3 +1,9 @@
+aiorwlock (0.6.0-3) UNRELEASED; urgency=medium
+
+  * Bump Standards-Version to 4.4.1.
+
+ -- Ondřej Nový <onovy@debian.org>  Fri, 18 Oct 2019 16:35:27 +0200
+
 aiorwlock (0.6.0-2) unstable; urgency=medium
 
   * Upload to unstable.
