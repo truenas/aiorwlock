@@ -6,10 +6,7 @@ Uploaders: William Grzybowski <william@grzy.org>
 Build-Depends: debhelper-compat (= 12),
                dh-python,
                python3-all,
-               python3-setuptools,
-# for tests:
-               python3-pytest,
-               python3-uvloop
+               python3-setuptools
 Standards-Version: 4.4.1
 Homepage: https://github.com/aio-libs/aiorwlock
 X-Python3-Version: >= 3.6
